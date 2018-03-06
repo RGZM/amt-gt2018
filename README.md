@@ -14,5 +14,4 @@ Florian Thiery<sup>1</sup>, Dr. Allard Mees<sup>2</sup>, RGZM<sup>3</sup>
 
 <sup>2</sup> Dr. Allard Mees FSA [`academia.edu`](https://rgzm.academia.edu/AllardMees)
 
-<sup>3</sup> Römisch-Germanisches Zentralmuseum Mainz, Leibniz-Forschungsinstitut für Archäologie
-University of Applied Sciences ([`Website`](http://rgzm.de/))
+<sup>3</sup> Römisch-Germanisches Zentralmuseum Mainz, Leibniz-Forschungsinstitut für Archäologie [`rgzm.de`](http://rgzm.de/)
