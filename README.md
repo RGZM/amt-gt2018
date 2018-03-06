@@ -1,14 +1,10 @@
 # amt-gt2018
 
-Example of the Academic Meta Tool for Graphentechnologien 2018.
+This is an example of the Academic Meta Tool for the talk `Putting Samian pots together – modelling ceramic service family roots – connecting figure types. Wie Graphen bei der Modellierung des Zweifels helfen können.`  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1155748.svg)](https://doi.org/10.5281/zenodo.1155748) at `Graphentechnologien 2018`. It is based on the Academic Meta Tool Ontology [![AMT](https://img.shields.io/badge/html-leonard-brightgreen.svg?style=flat)](http://academic-meta-tool.xyz/ontology/). More about AMT at [http://academic-meta-tool.xyz](http://academic-meta-tool.xyz/).
 
-## Talk
+## Webapp
 
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1155748.svg)](https://doi.org/10.5281/zenodo.1155748)
-
- ## Webapp
-
-Example web application at [AMT website](http://academic-meta-tool.xyz/gt18-samian/).
+Example web application available at the [AMT website](http://academic-meta-tool.xyz/gt18-samian/).
 
 ## Developers and License Holder
 
