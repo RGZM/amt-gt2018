@@ -6,6 +6,10 @@ Example of the Academic Meta Tool for Graphentechnologien 2018.
 
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1155748.svg)](https://doi.org/10.5281/zenodo.1155748)
 
+ ## Webapp
+
+Example web application at [AMT website](http://academic-meta-tool.xyz/gt18-samian/).
+
 ## Developers and License Holder
 
 Florian Thiery<sup>1</sup>, Dr. Allard Mees<sup>2</sup>, RGZM<sup>3</sup>
