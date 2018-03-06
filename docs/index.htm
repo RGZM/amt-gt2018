@@ -34,6 +34,7 @@
 			}
 			.description {
 				margin-left: 25px;
+				color: black;
 			}
 			.modal {
 				width: 60% !important;
@@ -507,17 +508,17 @@
 
 	<body>
 		<div id="graph" class="col s12"></div>
-		<div id="footer" class="page-footer grey col s12">
+		<div id="footer" class="page-footer blue lighten-3 col s12">
 			<div class="container">
 				<div class="row">
 					<div class="col s6 left-align">
-						<a class="btn-floating btn-large black" onclick="info()" title="Information"><i class="material-icons">info</i></a>
-						<a class="btn-floating btn-large green" onclick="exportOptions()" title="Download Edges and Nodes"><i class="material-icons">file_download</i></a>
-						<b class="description">Samian Punzen-Töpfer-Netzwerk.</b>
+						<a class="btn-floating btn-large black" onclick="info()" title="Information"><i class="material-icons">info_outline</i></a>
+						<a class="btn-floating btn-large black" onclick="exportOptions()" title="Download Edges and Nodes"><i class="material-icons">file_download</i></a>
+						<b class="description">AMT Punzen-Töpfer-Netzwerk</b>
 					</div>
 					<div id="buttons" class="col s3 right-align">
-						<a class="btn-floating btn-large edit blue" onclick="edit()" title="Close edit mode"><i class="material-icons">cancel</i></a>
-						<a class="btn-floating btn-large normal blue" onclick="edit()" title="Open edit mode"><i class="material-icons">edit</i></a>
+						<a class="btn-floating btn-large edit blue" onclick="edit()" title="Close edit mode"><i class="material-icons">flash_on</i></a>
+						<a class="btn-floating btn-large normal blue" onclick="edit()" title="Open edit mode"><i class="material-icons">input</i></a>
 					</div>
 					<div id="store" class="col s3 left-align">
 						<div><a class="btn-floating btn-large edit red" onclick="cancel()" title="Cancel changes"><i class="material-icons">cancel</i></a></div>
@@ -583,14 +584,9 @@
 				<br>
 				<p><b>How to?</b></p>
 				<p>
-					Zum Editieren den "editboutton" klicken.<br>
-					Danach zum Beispiel eine/n neue/n Töpfer/Punze anlegen (Klick auf den grünen Button).<br>
-					Das Label des Knotens angeben und ggf. eine Kantenbeschriftung (Rolle) wählen und danach die Gewichtung der Verbindung einstellen.<br>
-					Zum Speichern den grünen "savebutton" klicken.<br>
-					Zum Bearbeiten eines Knoten, diesen im Editiermodul durch Klick auswählen.<br>
-					Zur Reasoning-Ansicht den blauen "closebutton" drücken (durch erneuten Klick auf den "editbutton" kann wieder in diesen Modus zurückgesprungen werden).<br>
-					Ggf. Zum Abbruch den roten "cancelbutton" klicken.<br>
-					Wenn freigeschaltet, zum Speichern der Quadtupels im Triplestrore den schwarzen "savebutton" drücken.
+					Zum Editieren und zur Ansicht der Eingabedaten <i class="material-icons tiny">input</i> klicken. Danach zum Beispiel einen neuen Töpfer oder eine neue Punze anlegen (Klick auf den grünen <i class="material-icons tiny">add</i> Button). Das Label des Knotens angeben und ggf. eine Kantenbeschriftung (Rolle) wählen und danach die Gewichtung der Verbindung einstellen. Zum temporären Speichern <i class="material-icons tiny">save</i> klicken. Zum Bearbeiten eines Knoten, diesen im Editiermodul durch Klick auswählen. Zur Reasoning-Ansicht <i class="material-icons tiny">flash_on</i> klicken (durch erneuten Klick auf <i class="material-icons tiny">input</i> kann wieder in diesen Modus zurückgesprungen werden).
+					<br>
+					Für einen Download auf
 				</p>
 				<br>
 				<p><b>About the Creators and the Data</b></p>
@@ -609,7 +605,7 @@ Frühgeschichtlicher Altertümer 45, 1 (Mainz 2014).</p>
 	              <th width="25%">JSON array</th>
 	              <th width="25%">CSV as edges,nodes</th>
 	              <th width="25%">CYPHER statements</th>
-								<th width="25%">RDF</th>
+				  <th width="25%">RDF</th>
 	          </tr>
 	        </thead>
 	        <tbody>
