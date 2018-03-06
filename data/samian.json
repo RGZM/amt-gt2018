@@ -1,0 +1,3650 @@
+{
+	"nodes": [{
+		"id": "http://academic-meta-tool.xyz/vocab#1357cb59-abda-470b-8174-06b466ef76e5",
+		"label": "GLA-r 005b",
+		"concept": "http://rgzm.de/samian/Punze",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "pink",
+			"border": "red",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "ellipse"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#3c76bff9-f5ec-47ff-99f7-41f123db8779",
+		"label": "GLA-r 011",
+		"concept": "http://rgzm.de/samian/Punze",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "pink",
+			"border": "red",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "ellipse"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#4d4b312a-d9ce-4bb5-a450-961142bcbb83",
+		"label": "GLA-r 005a",
+		"concept": "http://rgzm.de/samian/Punze",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "pink",
+			"border": "red",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "ellipse"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"label": "GLA-l 002",
+		"concept": "http://rgzm.de/samian/Punze",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "pink",
+			"border": "red",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "ellipse"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"label": "GLA-r 012",
+		"concept": "http://rgzm.de/samian/Punze",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "pink",
+			"border": "red",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "ellipse"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"label": "GLA-l 003",
+		"concept": "http://rgzm.de/samian/Punze",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "pink",
+			"border": "red",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "ellipse"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"label": "CUP-r 001",
+		"concept": "http://rgzm.de/samian/Punze",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "pink",
+			"border": "red",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "ellipse"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#ebdff5c2-4dcf-4615-99eb-89d31a34d7ff",
+		"label": "CUP-r 002",
+		"concept": "http://rgzm.de/samian/Punze",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "pink",
+			"border": "red",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "ellipse"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"label": "GLA-r 005",
+		"concept": "http://rgzm.de/samian/Punze",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "pink",
+			"border": "red",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "ellipse"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#01afbda8-6436-4daa-ac39-7ee6d20866b9",
+		"label": "Crucuro i",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"label": "Severus iii",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"label": "Gallicanus ii",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"label": "M. Crestio",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"label": "Cotto ii",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"label": "Anonym III",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#70b5a265-1bec-4fa2-8416-f828c2f8970f",
+		"label": "Anonym I",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"label": "Quintio",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"label": "Mommo",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"label": "Primus iii",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"label": "Vanderio",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"label": "Passienus",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"label": "Lupus",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"label": "Iustus i",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"label": "Frontinus i",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"label": "Calvinus",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"label": "Medillus",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}, {
+		"id": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"label": "Vitalis ii",
+		"concept": "http://rgzm.de/samian/Toepfer",
+		"length": null,
+		"chosen": false,
+		"color": {
+			"background": "lightblue",
+			"border": "blue",
+			"highlight": {
+				"background": "white",
+				"border": "black"
+			}
+		},
+		"shape": "box"
+	}],
+	"edges": [{
+		"role": "http://rgzm.de/samian/istMutterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#4d4b312a-d9ce-4bb5-a450-961142bcbb83",
+		"to": "http://academic-meta-tool.xyz/vocab#1357cb59-abda-470b-8174-06b466ef76e5",
+		"width": "0.9",
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "30c63894-ebfb-43a7-9a34-4a657ac80c65"
+	}, {
+		"role": "http://rgzm.de/samian/istMutterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#3c76bff9-f5ec-47ff-99f7-41f123db8779",
+		"to": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"width": "0.9",
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "333e5a53-cb24-4934-a090-991724d09525"
+	}, {
+		"role": "http://rgzm.de/samian/istMutterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"to": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"width": "0.9",
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "391a704d-35d3-4614-8127-4889510426a0"
+	}, {
+		"role": "http://rgzm.de/samian/istMutterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"to": "http://academic-meta-tool.xyz/vocab#ebdff5c2-4dcf-4615-99eb-89d31a34d7ff",
+		"width": "0.91",
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "ee1f8a74-24ae-44c4-b994-8bc3b02d271b"
+	}, {
+		"role": "http://rgzm.de/samian/istMutterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"to": "http://academic-meta-tool.xyz/vocab#4d4b312a-d9ce-4bb5-a450-961142bcbb83",
+		"width": "0.9",
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "41788183-9164-42aa-b183-ab16800c2110"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"to": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "3feaedf3-ea5a-4c35-9ede-90ee45a07406"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"to": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "15f62cc3-a379-42dc-b1bc-5cc7c122ab5c"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"to": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "5acc7e19-c512-4f9d-983c-09515fc06037"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"to": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "e2f4391c-6b4d-48d9-bcb3-902728f175de"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#ebdff5c2-4dcf-4615-99eb-89d31a34d7ff",
+		"to": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "8eb8adef-5e43-47ab-9af2-464868baba77"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#ebdff5c2-4dcf-4615-99eb-89d31a34d7ff",
+		"to": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "3a53b543-5389-43fe-9cdc-9dd5858b4743"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"to": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "9c42a953-0f2c-4eec-b9a1-e41eac95ccc5"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"to": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "88e12826-7dca-4593-9f66-7edcca92d560"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"to": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "cd7d9fdf-8a54-410e-a084-8f37ca5c84ea"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"to": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "2b713775-8998-4cf9-8a5f-e2864946e3af"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#4d4b312a-d9ce-4bb5-a450-961142bcbb83",
+		"to": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "7c4427b6-ae42-44d6-ac72-256165f9447e"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#1357cb59-abda-470b-8174-06b466ef76e5",
+		"to": "http://academic-meta-tool.xyz/vocab#70b5a265-1bec-4fa2-8416-f828c2f8970f",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "1c29fa77-712a-4171-ae57-9eeeb26c4221"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#3c76bff9-f5ec-47ff-99f7-41f123db8779",
+		"to": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "3c696041-9d25-430a-b4b8-536e9661f8fb"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"to": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "8060d3ad-efc3-494f-b993-153f7a840e7f"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"to": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "92189a5a-e726-48ca-99dd-1ce28423afca"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"to": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "22feb796-c5b5-4ffa-b6b9-aa0e24d5b463"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"to": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "266e248b-0aea-4e93-970e-4613c5373eec"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"to": "http://academic-meta-tool.xyz/vocab#01afbda8-6436-4daa-ac39-7ee6d20866b9",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "a41165eb-0703-46e0-89ab-f1eaa362fb59"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"to": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "f7eaba6f-62fb-4c22-a6f0-5a0674991036"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"to": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "d927913b-c477-4ec9-aa27-2c4410cc7707"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"to": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "f31e4657-d4ba-4a41-ace7-5bbb35731a3d"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"to": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "2fb479e5-74fa-4527-bde3-504f5982aa41"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"to": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "6893ea5e-ba93-4eb5-9dee-c006d25a754c"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"to": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "14dc345d-46bb-4803-b7da-aa2034cb3eeb"
+	}, {
+		"role": "http://rgzm.de/samian/wasCreatedBy",
+		"from": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"to": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"width": "1",
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "ddeddaa4-657a-4c7f-936b-58806dd4cd42"
+	}, {
+		"role": "http://rgzm.de/samian/istTochterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#1357cb59-abda-470b-8174-06b466ef76e5",
+		"to": "http://academic-meta-tool.xyz/vocab#4d4b312a-d9ce-4bb5-a450-961142bcbb83",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "3d9f86d2-1dd6-42ed-9f93-f646ad53567c"
+	}, {
+		"role": "http://rgzm.de/samian/istTochterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"to": "http://academic-meta-tool.xyz/vocab#3c76bff9-f5ec-47ff-99f7-41f123db8779",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "90308511-f015-41a8-98df-316208597632"
+	}, {
+		"role": "http://rgzm.de/samian/istTochterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"to": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "1a5098b7-c309-4fc0-9481-0e7872f94443"
+	}, {
+		"role": "http://rgzm.de/samian/istTochterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#ebdff5c2-4dcf-4615-99eb-89d31a34d7ff",
+		"to": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"width": "0.91",
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "e8104ec4-048d-44d3-bc76-2ce3bee0ec5b"
+	}, {
+		"role": "http://rgzm.de/samian/istTochterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#4d4b312a-d9ce-4bb5-a450-961142bcbb83",
+		"to": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "80d55eff-5aca-46dd-94c4-f12b9da9c8ee"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"to": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "8a6deae6-d06d-450c-bbcf-25eba77816f1"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"to": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "119aaa24-7826-4105-be6a-c01fbe4bd0e9"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"to": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "c2bd12f9-60fb-4c03-b647-173b300a85ca"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"to": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "cf8a9149-76c8-43d0-88b7-beb8737d4de7"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#ebdff5c2-4dcf-4615-99eb-89d31a34d7ff",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "5852ca94-16dc-4ac9-bd83-36fd4942e0d5"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"to": "http://academic-meta-tool.xyz/vocab#ebdff5c2-4dcf-4615-99eb-89d31a34d7ff",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "59f8c05a-9c23-4134-ae79-0930162280f5"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"to": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "4db57a7b-de5f-4b7a-bd4b-ee94c72c5ab7"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"to": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "9d53c2d6-13dc-4ca7-bc22-5cd1c98cc613"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"to": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "202c49ce-2dd4-461d-8cff-1f7bc8e1e723"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"to": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "9a14923c-b438-4225-acc4-4fdf4b278233"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"to": "http://academic-meta-tool.xyz/vocab#4d4b312a-d9ce-4bb5-a450-961142bcbb83",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "ad8c9874-f7b5-417e-b986-abafba94bef9"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#70b5a265-1bec-4fa2-8416-f828c2f8970f",
+		"to": "http://academic-meta-tool.xyz/vocab#1357cb59-abda-470b-8174-06b466ef76e5",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "74796dad-18b5-4115-adc7-de8b2b0cfb4e"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#3c76bff9-f5ec-47ff-99f7-41f123db8779",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "723bc543-b297-43a1-99f0-fd4c29b075af"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "93026fa7-5744-4c3d-b9c6-afcc513b073a"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "e3ebdb4f-55bf-43c9-922b-ccbdbd06db2b"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "e7a941b2-0518-46a7-b720-0044fc6bc137"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#7269a79d-0ae1-44f3-9a7a-3ebd33e74c8d",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "7d9b96ca-30b7-4c35-898b-0450295bcb22"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#01afbda8-6436-4daa-ac39-7ee6d20866b9",
+		"to": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "9edffcb4-de73-4fba-ac8f-69ee8b3f560b"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"to": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "5e41bbcd-4224-4f7d-b8d0-b924cd00c895"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "96f3fed6-0b38-49d3-b924-92545ab7bf9e"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "34664fc7-b7a4-42ef-8c77-d3338079e832"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "019bb726-06a7-4707-a62e-39d3330aeca5"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "69de9f03-3694-436c-832b-1db5fd84497f"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#7db7c0fc-f7e4-43b9-8065-4179a932a94b",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "8df32ccb-d16a-4525-8b95-e2ff1a1a1d9b"
+	}, {
+		"role": "http://rgzm.de/samian/isCreatorOf",
+		"from": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"to": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"width": 1,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "green",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "1a3c182f-7ca7-4ecf-b067-37b156b95dae"
+	}, {
+		"role": "http://rgzm.de/samian/istTochterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#1357cb59-abda-470b-8174-06b466ef76e5",
+		"to": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "from",
+		"hidden": true,
+		"id": "aaad7f5a-832e-4614-af36-f61f1ac43e6e"
+	}, {
+		"role": "http://rgzm.de/samian/istMutterpunzeVon",
+		"from": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"to": "http://academic-meta-tool.xyz/vocab#1357cb59-abda-470b-8174-06b466ef76e5",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"arrows": "to",
+		"id": "f0fe61a7-8376-4baa-b631-d950521fa41c"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"to": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "21cca796-2a8a-4d6b-b7c1-4ac41e4564f5"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"to": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "b40174d2-4095-414c-bd35-4b511dfca816"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"to": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "e31d62c2-cd10-46fc-85a7-807fa5f45efe"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"to": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "9f000be1-8941-43ec-ab87-25980a82d78e"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"to": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "3ae6e308-dc7e-439a-9d09-6b360674b3eb"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"to": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "dbf03f55-e28a-4a8b-81af-d6c603ead4ab"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"to": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "3abebb05-04e0-44f9-bb06-0579cf8b34d0"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"to": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "4f6b8aee-f603-4f94-a3ce-645512da97fc"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"to": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "c187ce6e-4bf4-40b3-9a91-3b9f1113a4aa"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"to": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "b1887482-27ce-4787-9c2d-6957c8309b3b"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"to": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "c06dddfa-d561-47bc-9d61-d96a0ba8c286"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"to": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "057ddfa2-196a-4689-a032-ba503f3f0e73"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"to": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "d70191d5-d145-4ad4-a5ec-e841cac62f0f"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"to": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "757bc640-4007-4754-8859-b3103bd3e604"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"to": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "db632f2c-a8f8-4190-b4ca-1f4786d555f8"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"to": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "e9dfadc4-f394-4e66-a13c-f6c2c8120aff"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"to": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "09f4d802-f3ad-46a1-a41e-948535187d78"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"to": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "0cf793f6-be2e-4f41-bfbd-da270c7b76bb"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"to": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "ca54c881-4ccf-42de-bf75-60039820ae39"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"to": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "15370619-a5e2-4ab1-a1a9-3742d8ed0bfe"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "bc4e5c26-ca76-4149-8f47-6f057800f869"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "63539800-f05c-460c-b85e-242f88e38602"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"to": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "a65905fd-ca36-42ce-98dc-8432eac9628b"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"to": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "0f7a49f8-3b4f-4107-a839-a493fa22ca0f"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"to": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "f6be2e59-177f-4364-a857-5f19ea037be4"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"to": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "1f45575c-6d8f-412d-a9d1-25e8674c07cc"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"to": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "e57f5439-b93c-4a85-aa42-d2f7e4504ab5"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"to": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "4c2dd2da-c573-4dd4-918f-90e01b7a9542"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"to": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "25c7abc6-6bbb-4a5a-bfc2-4c99b3c0dc5c"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"to": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "bc0e9ed8-9035-438c-9c5a-53ffd132f5ff"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"to": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "e10a974c-54eb-4e83-a0b4-60503ea0a9de"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"to": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "d93a6aad-0441-47d7-81b4-3f09755a6ed3"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"to": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "1d72ff24-7977-4be8-9cc0-8b9efac7f66f"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"to": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "5e64cbcb-7022-46b0-9b3c-c395f1e1a1c3"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"to": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "d1f2916a-4e4e-4d8c-bd2e-94c89fca5ddc"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"to": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "7e56989a-7589-4598-a46f-4abb2ccd1d6c"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"to": "http://academic-meta-tool.xyz/vocab#30c2033f-ad4c-4319-88f1-75ebae56e0a7",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "d34b1305-0108-474d-a3cf-4ef7d713b166"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"to": "http://academic-meta-tool.xyz/vocab#34f10438-fa28-4fe5-910a-bf8d5fcc5624",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "b814180c-1192-46bf-9a6f-03d5138f84b4"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"to": "http://academic-meta-tool.xyz/vocab#cc9a3e41-7d2d-4b67-b3fd-14f9507ac7e2",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "b646f92f-6e08-4211-98ec-3fa2a4dbd647"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"to": "http://academic-meta-tool.xyz/vocab#fac5a718-51da-4d6a-b59b-e5436d9c8f99",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "331f7671-c1de-4075-81bf-a279ae0d49a7"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"to": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "f2383cb5-9b43-4e67-aefe-f05cf93369ca"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#70b5a265-1bec-4fa2-8416-f828c2f8970f",
+		"to": "http://academic-meta-tool.xyz/vocab#70b5a265-1bec-4fa2-8416-f828c2f8970f",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "8757e310-e213-426e-afde-950a9d2df953"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "17beff5d-f282-4f10-a63c-dab74e4f5f68"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "87ad30ef-e080-4d9f-82a2-a37323a08819"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "9eb056ce-ab06-4896-87a2-9dd9b1f8614c"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "7dd8c4a1-99e3-4638-b2ad-5ceb69e047fc"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "72baa5b1-6063-4752-b697-5bc94cdf1b87"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "895b1974-bc42-47c2-9d94-7fa35ee606c2"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "2bd10d25-1386-47ce-a707-2949c53ffc91"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "eb916261-c9e9-452e-9283-40878eb49152"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "31d2e4fd-0812-4055-aee0-961dfeee8f23"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "db6952d0-2387-4339-9b9d-52aa4c288991"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "697c5781-1601-4859-a982-032f002dd370"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "2af583c0-bfcd-49c1-9ec6-bd2e65286947"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "4d3f564b-f8de-4520-9168-d4810324b866"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "63775a41-f3c8-4b27-a01a-7a6159daeacf"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "d0dce41c-bec9-4d30-a0d8-062477482871"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "7a0d14b3-5c06-4a13-9f48-54e8ade7d046"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#01afbda8-6436-4daa-ac39-7ee6d20866b9",
+		"to": "http://academic-meta-tool.xyz/vocab#01afbda8-6436-4daa-ac39-7ee6d20866b9",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "bcde37cb-cb02-42d3-8736-aeab9a7e31e8"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#01afbda8-6436-4daa-ac39-7ee6d20866b9",
+		"to": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "49e571be-1147-41fe-abf6-b62249e5fc8b"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"to": "http://academic-meta-tool.xyz/vocab#01afbda8-6436-4daa-ac39-7ee6d20866b9",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "59faf254-d6a7-4459-9455-911027d70ba8"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "c8fd7db4-d348-4aa8-90fc-6ee7d76fc159"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "b2ef4264-6fa3-4ab5-b5d2-aa3d642c4a81"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "863318cf-43a5-4185-84c6-dd636a892bf5"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "2e485404-e180-4b70-bdfd-5c66bb43af95"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "55fa8270-8d80-4738-8515-83f91d1c7882"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "8d951ad0-879d-4757-9584-35efb0994724"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "c1c1865d-cf4c-4aeb-9519-3ceca4511054"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "f1cf73d4-21cb-48ac-bbf6-c52dd28a55cb"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"to": "http://academic-meta-tool.xyz/vocab#52d870b8-515b-4672-9244-a9d0e23e7dc9",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "4eaed294-a1b9-4a7d-801a-a271e357acf6"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"to": "http://academic-meta-tool.xyz/vocab#c947518c-8d39-48d7-bdb4-33c63c8590ca",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "e1f723ff-cffc-4f74-aacc-fde2aa4e272e"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"to": "http://academic-meta-tool.xyz/vocab#d0362cd7-bbac-46de-8dec-73cf65315252",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "fe5bfb1e-cec8-4370-9085-0054b04863ad"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"to": "http://academic-meta-tool.xyz/vocab#f89d67a1-4896-4043-9e1a-928d181bb551",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "e24ef26e-9691-4804-8e9c-d851b4dbb83f"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"to": "http://academic-meta-tool.xyz/vocab#716dca9a-4d5a-4067-a9b5-af5f6274ff5e",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "b2099d42-9009-44a1-974e-48ae111ab802"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"width": 0.91,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "880826e3-38f8-4842-903f-411fc7d41d1d"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"to": "http://academic-meta-tool.xyz/vocab#e2767b7e-3803-4546-9121-a58d7d370552",
+		"width": 0.91,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "bf718317-feb1-46ac-b8af-dbc7efa0de2f"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#e5d94399-abf7-41b4-b252-a7959e6ae36b",
+		"to": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "4cd6e9a4-538c-4226-b0f9-748feb955161"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#70b5a265-1bec-4fa2-8416-f828c2f8970f",
+		"to": "http://academic-meta-tool.xyz/vocab#4d4b312a-d9ce-4bb5-a450-961142bcbb83",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "ea855a2f-5293-48d2-99d8-ebef77025cc0"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#70b5a265-1bec-4fa2-8416-f828c2f8970f",
+		"to": "http://academic-meta-tool.xyz/vocab#fc3f73cd-77c3-4cd6-bc74-c8ad13a32aeb",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "2f3e2309-72b9-4cbb-b7f5-0ab888cb97b2"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#3c76bff9-f5ec-47ff-99f7-41f123db8779",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "b6d64e2b-e09f-41a2-99ac-6bd899e5a0e1"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#3c76bff9-f5ec-47ff-99f7-41f123db8779",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "925a026d-90d7-4c2e-a0a8-90f133a61565"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#3c76bff9-f5ec-47ff-99f7-41f123db8779",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "78035a69-4b10-47fc-863c-b56aba284480"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#3c76bff9-f5ec-47ff-99f7-41f123db8779",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "94adb1e1-bfda-4130-9ef5-39609ea693c6"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "d00dbebb-2abf-4cd0-917c-25a08715795a"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "513a51d2-f93c-4de1-9407-ecb5db712179"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#7a55c951-27de-4123-ac33-1952c21177bd",
+		"to": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "82e8cc0c-c991-4acf-ab5c-27eb16c7a6d6"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "e7972cc4-cc80-45fd-b783-89b9ba47a89c"
+	}, {
+		"role": "http://rgzm.de/samian/arbeitetInWerkstattVon",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#4ff4e784-17a7-46d9-acf9-5bf1f452dba6",
+		"width": 0.9,
+		"label": 0.9,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "red",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "d3c02baf-71c0-467c-a47a-f0931fcc61c7"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"to": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "a1c1cef1-d04f-4ae5-b638-ee490217fcd7"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"to": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "c524adc7-a79a-49cd-be20-600c16c6174c"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"to": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "7723aaba-aa2d-4c21-8d38-e1260578985e"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"to": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "56d8c924-22ff-4041-87ee-dc28352af636"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#0e3ab2f9-90a9-4197-ac76-5f37c1e7e3af",
+		"to": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "3b79ffce-48f2-4e05-ab8c-df4478065dc3"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#633f5509-bd7e-4ce9-955c-a521ba61e07f",
+		"to": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"id": "c992a234-4002-4215-b0f8-e89ad98282dd"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#96c986ac-2f6b-40fe-a711-da62a8b13845",
+		"to": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "4ba3b817-8b37-4453-9f97-c05d14b4b428"
+	}, {
+		"role": "http://rgzm.de/samian/isConnectedWith",
+		"from": "http://academic-meta-tool.xyz/vocab#f45624c9-14eb-4f5c-8a45-54cc979c556c",
+		"to": "http://academic-meta-tool.xyz/vocab#8fc3d895-a367-4f2c-8696-ba2e5d7daf76",
+		"width": null,
+		"label": 1,
+		"font": {
+			"align": "middle",
+			"size": 10,
+			"color": "black",
+			"face": "arial"
+		},
+		"arrowStrikethrough": false,
+		"chosen": false,
+		"color": {
+			"color": "blue",
+			"highlight": "black"
+		},
+		"dashes": true,
+		"hidden": true,
+		"id": "8977f95d-4195-42f8-8e63-c30ac0b42a6d"
+	}]
+}
